@@ -1,1 +1,1 @@
-O curso é ótimo!
+Estudando git e github
